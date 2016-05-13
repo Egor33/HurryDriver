@@ -1,0 +1,70 @@
+E:\HurryDriver\HurryDriver\bin\Debug\HurryDriver.exe.config
+E:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.csprojResolveAssemblyReference.cache
+E:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.FormMenu.resources
+E:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.Properties.Resources.resources
+E:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.csproj.GenerateResource.Cache
+E:\HurryDriver\HurryDriver\bin\Debug\HurryDriver.exe
+E:\HurryDriver\HurryDriver\bin\Debug\HurryDriver.pdb
+E:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.exe
+E:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.pdb
+E:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.FormRoad.resources
+D:\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\bin\Debug\HurryDriver.exe.config
+D:\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.exe
+D:\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.pdb
+D:\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.csprojResolveAssemblyReference.cache
+D:\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.FormMenu.resources
+D:\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.FormRoad.resources
+D:\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.Properties.Resources.resources
+D:\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.csproj.GenerateResource.Cache
+D:\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\bin\Debug\HurryDriver.exe
+D:\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\bin\Debug\HurryDriver.pdb
+\\EVWORKPC\Study\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\bin\Debug\HurryDriver.exe.config
+\\EVWORKPC\Study\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.exe
+\\EVWORKPC\Study\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.pdb
+\\EVWORKPC\Study\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.csprojResolveAssemblyReference.cache
+\\EVWORKPC\Study\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.FormMenu.resources
+\\EVWORKPC\Study\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.FormRoad.resources
+\\EVWORKPC\Study\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.Properties.Resources.resources
+\\EVWORKPC\Study\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\obj\Debug\HurryDriver.csproj.GenerateResource.Cache
+\\EVWORKPC\Study\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\bin\Debug\HurryDriver.exe
+\\EVWORKPC\Study\ISPU\Programming\ООП. Алыкова\programs\HurryDriver\HurryDriver\bin\Debug\HurryDriver.pdb
+C:\Users\EV\Google Диск\HurryDriver (1)\HurryDriver\bin\Debug\HurryDriver.exe.config
+C:\Users\EV\Google Диск\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.exe
+C:\Users\EV\Google Диск\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.pdb
+C:\Users\EV\Google Диск\HurryDriver (1)\HurryDriver\bin\Debug\HurryDriver.exe
+C:\Users\EV\Google Диск\HurryDriver (1)\HurryDriver\bin\Debug\HurryDriver.pdb
+C:\Users\EV\Google Диск\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.csprojResolveAssemblyReference.cache
+C:\Users\EV\Google Диск\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.FormMenu.resources
+C:\Users\EV\Google Диск\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.FormRoad.resources
+C:\Users\EV\Google Диск\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.Properties.Resources.resources
+C:\Users\EV\Google Диск\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.csproj.GenerateResource.Cache
+C:\Users\EV\Desktop\HurryDriver (1)\HurryDriver\bin\Debug\HurryDriver.exe.config
+C:\Users\EV\Desktop\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.exe
+C:\Users\EV\Desktop\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.pdb
+C:\Users\EV\Desktop\HurryDriver (1)\HurryDriver\bin\Debug\HurryDriver.exe
+C:\Users\EV\Desktop\HurryDriver (1)\HurryDriver\bin\Debug\HurryDriver.pdb
+C:\Users\EV\Desktop\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.csprojResolveAssemblyReference.cache
+C:\Users\EV\Desktop\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.FormMenu.resources
+C:\Users\EV\Desktop\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.FormRoad.resources
+C:\Users\EV\Desktop\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.Properties.Resources.resources
+C:\Users\EV\Desktop\HurryDriver (1)\HurryDriver\obj\Debug\HurryDriver.csproj.GenerateResource.Cache
+E:\миллион папок с игрой\HurryDriver\HurryDriver\bin\Debug\HurryDriver.exe.config
+E:\миллион папок с игрой\HurryDriver\HurryDriver\obj\Debug\HurryDriver.exe
+E:\миллион папок с игрой\HurryDriver\HurryDriver\obj\Debug\HurryDriver.pdb
+E:\миллион папок с игрой\HurryDriver\HurryDriver\bin\Debug\HurryDriver.exe
+E:\миллион папок с игрой\HurryDriver\HurryDriver\bin\Debug\HurryDriver.pdb
+E:\миллион папок с игрой\HurryDriver\HurryDriver\obj\Debug\HurryDriver.csprojResolveAssemblyReference.cache
+E:\миллион папок с игрой\HurryDriver\HurryDriver\obj\Debug\HurryDriver.FormMenu.resources
+E:\миллион папок с игрой\HurryDriver\HurryDriver\obj\Debug\HurryDriver.FormRoad.resources
+E:\миллион папок с игрой\HurryDriver\HurryDriver\obj\Debug\HurryDriver.Properties.Resources.resources
+E:\миллион папок с игрой\HurryDriver\HurryDriver\obj\Debug\HurryDriver.csproj.GenerateResource.Cache
+D:\HurryDriver\HurryDriver\bin\Debug\HurryDriver.exe.config
+D:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.exe
+D:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.pdb
+D:\HurryDriver\HurryDriver\bin\Debug\HurryDriver.exe
+D:\HurryDriver\HurryDriver\bin\Debug\HurryDriver.pdb
+D:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.csprojResolveAssemblyReference.cache
+D:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.FormMenu.resources
+D:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.FormRoad.resources
+D:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.Properties.Resources.resources
+D:\HurryDriver\HurryDriver\obj\Debug\HurryDriver.csproj.GenerateResource.Cache
